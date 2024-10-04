@@ -6,18 +6,17 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o maior oceano do mundo' ,
+    'Ocenao Pacífico'
 )
-
 criaCartao(
     'Arte',
-    'Qual seu tipo de arte favorito?',
+    'tipo de arte favorito?',
     'O meu tipo é pintura'
 )
 criaCartao(
-    'moda',
-    'Qual é o seu tipo de roupa?',
+    'Moda',
+    'qual seu tipo de roupa?',
     'O meu tipo é mais moderno pro básico'
 )
 CriaCartao(
@@ -25,12 +24,12 @@ CriaCartao(
     'Qual sua comida favorita?',
     'Aminha favorita é pizza'
 )
-riaCartao(
+CriaCartao(
     'Imaginação',
     'Qual seria seu animal de estimação mágico?',
     'Uma fada, teria de estimação'
 )
-riaCartao(
+criaCartao(
     'Música',
     'Qual música favorita para dançar na chuva?',
     'Dancing in the Dark do Bruce Springsteen'
@@ -83,10 +82,50 @@ criaCartao(
 criaCartao(
     'presente',
     'qual seu maior presente?',
-    'O meu ,aior presente é ter saúde, uma famĺia incrível e sendo alguém na vida'
+    'O meu,maior presente é ter saúde, uma famĺia incrível e sendo alguém na vida'
 )
 criaCartao(
     'Objetivo',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual sua flor favorita?',
+    'A minha flor favorita é a rosa. Adoro sua beleza, seu aroma e sua simbologia de amor e paixão'
 )
+criaCartao(
+    'Cor',
+    'Qual sua cor favorita?',
+    'Minha cor favorita é vermelho, adoro uma paixão ardente com brilho'
+)
+criaCartao(
+    'Hobby',
+    'Qual seu hobby favorito?',
+    'O meu hobby favorito é bricar com meu pet, maior amor da minha vida'
+)
+criaCartao(
+    'Perfume',
+    'Qual seu perfume favorito?',
+    'O meu perfume é o Egeo Choc Berry, o seu aroma de chocolate com morango'
+)
+criaCartao(
+    'Filme',
+    'Qual seu filme favorito',
+    'O meu filme favorito é romance, ficção e aventura'
+)
+criaCartao(
+    'Leitura',
+    'Qual seu tipo de livro favorito?',
+    'O meu tipo de livro favorito é fantasia e imaginação'
+)
+criaCartao(
+    'Viagem',
+    'Qual seu tipo de viagem favorito',
+    'O meu tipo de viagem favorito é aventura e passar tempo com  familía'
+)
+criaCartao(
+    'Sabor',
+    'Qual seu sabor favoito?',
+    'O meu sabor favorito é chocolate'
+)
+criaCartao(
+    'Cabelos',
+    'Qual creme você mais usa?',
+    'Adoro usar o creme da Skala, deixa o cabelo macio e cheiroso'
+)    
